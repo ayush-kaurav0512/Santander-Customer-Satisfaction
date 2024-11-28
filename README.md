@@ -20,7 +20,7 @@ sample_submission.csv - a sample submission file in the correct format.
 
 ## Task Performed 
 
-### Task Instructions for Decision Tree Analysis and Kaggle Submission (GitHub ReadMe)
+### Task Instructions for Decision Tree Analysis and Kaggle Submission
 
 This task involves implementing decision tree models to predict customer satisfaction, performing data analysis, and documenting results using Kaggle submissions. Follow the detailed steps below:
 
