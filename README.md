@@ -82,3 +82,9 @@ Deliverables:
 ## Kaggle Url:- 
 
 https://www.kaggle.com/c/santander-customer-satisfaction/overview
+
+## Video Presentation Link
+
+https://asu.zoom.us/rec/component-page?action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&clusterId=us02&componentName=need-password&meetingId=8NQJZFR83jq3T7MUWPLTouhRHyirbuFDCg1TmbNIcAr-NIml5r2rLM0Af-IjJ7_p.5lmT_y-qikYwEST9&originRequestUrl=https%3A%2F%2Fasu.zoom.us%2Frec%2Fshare%2F4PQjYozkuTWmwUbdRQP5NJJ92ADfeWaw0m4a4l0okY_sJN4_AgJi9s-HZUHhA8K6.FvKRV_QM41mjtCXQ%3FstartTime%3D1730654809000
+
+Passcode: Cit5XYn*
